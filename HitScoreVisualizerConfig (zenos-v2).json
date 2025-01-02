@@ -1,0 +1,219 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 2,
+  "patchVersion": 1,
+  "isDefaultConfig": true,
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "timeDependencyDecimalPrecision": 1,
+  "timeDependencyDecimalOffset": 2,
+   "judgments": [
+    {
+      "threshold": 115,
+      
+      "text": "<size=415%>15</size>%n",
+      "color": [
+        0.95,
+        1.0,
+        0.97,
+        1.0
+      ],
+      
+      "fade": false
+    },
+     {"threshold": 114,
+      
+      "text": "<size=370%>14</size>",
+      "color": [
+        0.0,
+        0.75,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+     {"threshold": 113,
+      
+      "text": "<size=350%>13</size>",
+      "color": [
+        0.0,
+        0.75,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+     {"threshold": 112,
+      
+      "text": "<size=350%>12</size>",
+      "color": [
+        0.553,
+        0.161,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+     {"threshold": 111,
+      
+      "text": "<size=350%>11</size>",
+      "color": [
+        0.553,
+        0.161,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+     {"threshold": 110,
+      
+      "text": "<size=320%>10</size>",
+      "color": [
+        0.553,
+        0.161,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 109,
+      
+      "text": "<size=260%>9</size>",
+      "color": [
+        0.553,
+        0.161,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 108,
+      
+      "text": "<size=230%>8</size>",
+      "color": [
+        0.43,
+        0.63,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 107,
+      
+      "text": "<size=190%>7</size>",
+      "color": [
+        0.43,
+        0.63,
+        1.0,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 106,
+      
+      "text": "<size=180%>6</size>",
+      "color": [
+        0.5,
+        1.0,
+        0.2,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 105,
+      
+      "text": "<size=170%>5</size>",
+      "color": [
+        0.5,
+        1.0,
+        0.2,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 104,
+      
+      "text": "<size=160%>4</size>",
+      "color": [
+        1.0,
+        0.63,
+        0.92,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 103,
+      
+      "text": "<size=150%>3</size>",
+      "color": [
+        1.0,
+        0.63,
+        0.92,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 102,
+      
+      "text": "<size=140%>2</size>",
+      "color": [
+        1.0,
+        0.63,
+        0.92,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 101,
+      
+      "text": "<size=130%>1</size>",
+      "color": [
+        1.0,
+        0.63,
+        0.92,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {"threshold": 100,
+      
+      "text": "<size=120%>0</size>",
+      "color": [
+        1.0,
+        0.63,
+        0.92,
+        1.0
+      ],
+      
+      "fade": false
+    },
+    {
+     
+      "threshold": 0,
+      
+      "text": "<size=145%>NG</size>",
+      "color": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    }
+  ],
+  "timeDependencyJudgments": null
+}
