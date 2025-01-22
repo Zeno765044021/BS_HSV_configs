@@ -1,0 +1,316 @@
+{
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "judgments": [
+    {
+      "threshold": 115,
+      "text": "<u><size=405%>%T</size></u>",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ] 
+    },
+    {
+      "threshold": 114,
+      "text": "<size=340%>%B%T%A</size>",
+      "color": [
+        0.5,
+        0.8,
+        1,
+        0.9
+      ]
+    },
+    {
+      "threshold": 113,
+      "text": "<size=320%>%B%T%A</size>",
+      "color": [
+        0.5,
+        0.8,
+        1,
+        0.9
+      ]
+    },
+    {
+      "threshold": 112,
+      "text": "<size=300%>%B%T%A</size>",
+      "color": [
+        0.1,
+        0.4,
+        0.7,
+        0.2
+      ]
+    },
+    {
+      "threshold": 111,
+      "text": "<size=280%>%B%T%A</size>",
+      "color": [
+        0.1,
+        0.4,
+        0.7,
+        0.2
+      ]
+    },
+    {
+      "threshold": 110,
+      "text": "<alpha=#ff><size=275%>%B%T%A</size>",
+      "color": [
+        0.1,
+        0.4,
+        0.7,
+        0.2
+      ]
+    },
+    {
+      "threshold": 109,
+      "text": "<alpha=#fa><size=260%>%B%T%A</size>",
+      "color": [
+        0.451,
+        0.322,
+        0.78,
+        0.9
+      ]
+    },
+    {
+      "threshold": 108,
+      "text": "<alpha=#f0><size=250%>%B%T%A</size>",
+      "color": [
+        0.639,
+        0.545,
+        0.875,
+        0.9
+      ]
+    },
+    {
+      "threshold": 107,
+      "text": "<alpha=#d0><size=240%>%B%T%A</size>",
+      "color": [
+        0.639,
+        0.545,
+        0.875,
+        0.9
+      ]
+    },
+    {
+      "threshold": 106,
+      "text": "<alpha=#d0><size=230%>%B%T%A</size>",
+      "color": [
+        0.71,
+        0.631,
+        0.91,
+        0.9
+      ]
+    },
+    {
+      "threshold": 105,
+      "text": "<alpha=#d0><size=220%>%B%T%A</size>",
+      "color": [
+        0.773,
+        0.714,
+        0.925,
+        0.9
+      ]
+    },
+    {
+      "threshold": 104,
+      "text": "<alpha=#88><size=200%>%B%T%A</size>",
+      "color": [
+        0.831,
+        0.765,
+        0.996,
+        0.9
+      ]
+    },
+    {
+      "threshold": 103,
+      "text": "<alpha=#66><size=180%>%B%T%A</size>",
+      "color": [
+        0.831,
+        0.765,
+        0.996,
+        0.9
+      ]
+    },
+    {
+      "threshold": 102,
+      "text": "<alpha=#44><size=160%>%B%T%A</size>",
+      "color": [
+        0.831,
+        0.765,
+        0.996,
+        0.9
+      ]
+    },
+    {
+      "threshold": 101,
+      "text": "<alpha=#22><size=140%>%B%T%A</size>",
+      "color": [
+        0.831,
+        0.765,
+        0.996,
+        0.9
+      ]
+    },
+    {
+      "threshold": 100,
+      "text": "<alpha=#22><size=120%>%B%T%A</size>",
+      "color": [
+        0.831,
+        0.765,
+        0.996,
+        0.9
+      ]
+    },
+    {
+      "threshold": 0,
+      "text": "<alpha=#00><size=120%>%B%T%A</size>",
+      "color": [
+        0.855,
+        0.8,
+        1.0,
+        0.9
+      ]
+    }
+  ],
+  "beforeCutAngleJudgments": [
+    {
+      "threshold": 70,
+      "text": " "
+    },
+    {
+      "threshold": 69,
+      "text": "."
+    },
+    {
+      "threshold": 0,
+      "text": "<"
+    }
+  ],
+  "accuracyJudgments": [
+    {
+      "threshold": 15,
+      "text": "15"
+    },
+    {
+      "threshold": 14,
+      "text": "14"
+    },
+    {
+      "threshold": 13,
+      "text": "13"
+    },
+    {
+      "threshold": 12,
+      "text": "12"
+    },
+    {
+      "threshold": 11,
+      "text": "11"
+    },
+    {
+      "threshold": 10,
+      "text": "10"
+    },
+    {
+      "threshold": 9,
+      "text": "9"
+    },
+    {
+      "threshold": 8,
+      "text": "8"
+    },
+    {
+      "threshold": 7,
+      "text": "7"
+    },
+    {
+      "threshold": 6,
+      "text": "6"
+    },
+    {
+      "threshold": 5,
+      "text": "5"
+    },
+    {
+      "threshold": 4,
+      "text": "4"
+    },
+    {
+      "threshold": 3,
+      "text": "3"
+    },
+    {
+      "threshold": 2,
+      "text": "2"
+    },
+    {
+      "threshold": 1,
+      "text": "1"
+    },
+    {
+      "threshold": 0,
+      "text": "--"
+    }
+   
+  ],
+  "afterCutAngleJudgments": [
+    {
+      "threshold": 30,
+      "text": " "
+    },
+    {
+      "threshold": 29,
+      "text": "."
+    },
+    {
+      "threshold": 0,
+      "text": ">"
+    }
+  ],
+   "timeDependencyJudgments":[
+    {
+      "threshold": 1,
+      "text": "TD"
+    },
+    {
+      "threshold": 0.9,
+      "text": "9"
+    },
+    {
+      "threshold": 0.8,
+      "text": "8"
+    },
+{
+      "threshold": 0.7,
+      "text": "7"
+    },
+{
+      "threshold": 0.6,
+      "text": "6"
+    },{
+      "threshold": 0.5,
+      "text": "5"
+    },
+{
+      "threshold": 0.4,
+      "text": "4"
+    },
+{
+      "threshold": 0.3,
+      "text": "3"
+    },
+    {
+      "threshold": 0.2,
+      "text": "2"
+    },
+{
+      "threshold": 0.1,
+      "text": "1"
+    },
+    {
+      "threshold": 0,
+      "text": "TI"
+    }
+]
+}
